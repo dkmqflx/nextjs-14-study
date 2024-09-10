@@ -1,0 +1,1 @@
+- [가장 쉬운 Nextjs](https://www.youtube.com/playlist?list=PLpq56DBY9U2AyFtF0ajuFZX3IGgDIXgcb)
